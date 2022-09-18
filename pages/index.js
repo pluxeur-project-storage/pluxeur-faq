@@ -33,12 +33,12 @@ export default function Home() {
             <p>Roblox ELS Development Studio.</p>
           </a>
 
-          <a href="https://pluxeur-faq.vercel.app/payhip" className={styles.card}>
+          <a href="https://pluxeur-faq.netlify.app/payhip" className={styles.card}>
             <h2>Payhip Stores &rarr;</h2>
             <p>our Payhip stores for Digital Development.</p>
           </a>
 
-          <a href="https://pluxeur-faq.vercel.app/trello" className={styles.card}>
+          <a href="https://pluxeur-faq.netlify.app/trello" className={styles.card}>
             <h2>Trello Boards &rarr;</h2>
             <p>Our trello boards for Digital Development.</p>
           </a>
